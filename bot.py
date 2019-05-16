@@ -1,7 +1,6 @@
 import praw
 
-reddit = praw.Reddit('SurpsiedPikachuBot')
-subreddit = reddit.subreddit("testingground4bots")
+reddit = praw.Reddit('SurprisedPikachuBot')
 
 str = """
 ．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．  
